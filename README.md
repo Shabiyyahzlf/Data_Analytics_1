@@ -170,7 +170,7 @@ By default, it calculates the frequency.
 
 ## Get Dummies
 The `get_dummies` function in pandas is used to convert categorical variables into dummy/indicator variables, also known as one-hot encoding. It creates a new DataFrame with binary indicator variables for each category present in the original categorical variable.
-<div align="center"><img src="https://github.com/Shabiyyahzlf/Data-Visualization-1/assets/89763971/e12c0b1a-e1ea-425a-a67c-6bcc9e1af993" /></div>
+<div align="center"><img src="https://github.com/Shabiyyahzlf/Data_Analytics_1/assets/89763971/170f0057-99ad-4a33-8065-ab0a8d322e23" /></div>
 
 ## Sort
 Sorting data in pandas allows you to rearrange the rows of a DataFrame or Series based on the values of one or more columns. The `sort_values` method is commonly used for this purpose.
