@@ -174,7 +174,7 @@ The `get_dummies` function in pandas is used to convert categorical variables in
 
 ## Sort
 Sorting data in pandas allows you to rearrange the rows of a DataFrame or Series based on the values of one or more columns. The `sort_values` method is commonly used for this purpose.
-<img width="258" alt="Screenshot 2024-04-27 at 06 42 18" src="https://github.com/Shabiyyahzlf/Data-Visualization-1/assets/89763971/bb8ec661-74fe-47da-97eb-d5375880765f">
+<div align="center"><img src="https://github.com/Shabiyyahzlf/Data-Visualization-1/assets/89763971/bb8ec661-74fe-47da-97eb-d5375880765f" /></div>
 
 ## Rename
 Renaming columns in pandas allows you to change the names of one or more columns in a DataFrame to make them more descriptive or suitable for analysis. The `rename` method is commonly used for this purpose.
